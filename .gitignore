@@ -109,7 +109,6 @@ venv.bak/
 # Other
 .DS_Store
 *.key
-*.png
 
 # Models and run data
 .temp_best_model
