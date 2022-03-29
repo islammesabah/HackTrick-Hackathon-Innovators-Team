@@ -7,6 +7,7 @@
 * Zyad Tahoon
 
 **Scores:**
+
 ![Scores](scores/scores.png)
 
 Board | Single Agent             |  Collaborative Agent
@@ -19,6 +20,7 @@ Final | ![](scores/final_single.png)  |  ![](scores/final_collaborative.png)
 
 
 **UI/UX Track:**
+
 ![Scores](UI_Track.png)
 
 
