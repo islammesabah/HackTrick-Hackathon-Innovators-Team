@@ -1,0 +1,6 @@
+,Single Agent,Collaborative Agent,Collaborative Agent *1.5,Total Score
+leaderboard,910,1400,= 1.5 * C2,"=SUM(B2,D2)"
+round_of_16,1120,1120,= 1.5 * C3,"=SUM(B3,D3)"
+quarter_final,1120,1120,= 1.5 * C4,"=SUM(B4,D4)"
+semi_final,1050,1050,= 1.5 * C5,"=SUM(B5,D5)"
+final,910,1330,= 1.5 * C6,"=SUM(B6,D6)"
